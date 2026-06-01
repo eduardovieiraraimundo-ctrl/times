@@ -1,0 +1,14 @@
+.cafe {
+    background-color: aqua;
+    color: black;
+    border: 10px solid transparent;
+    border-radius: 10px;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.cafe:hover {
+    transform: scale(1.1);
+    color: black;
+    background-color: blue;
+
+}
