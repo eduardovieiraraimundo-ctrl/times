@@ -4,6 +4,7 @@
     border: 10px solid transparent;
     border-radius: 10px;
     transition: transform 0.3s ease, background-color 0.3s ease;
+ 
 }
 
 .cafe:hover {
@@ -12,3 +13,20 @@
     background-color: blue;
 
 }
+
+.cofe {
+    background-color: aqua;
+    color: black;
+    border: 10px solid transparent;
+    border-radius: 10px;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+}
+
+.cofe:hover {
+    transform: scale(1.1);
+    color: white;
+    background-color:brown;
+
+}
+
+
